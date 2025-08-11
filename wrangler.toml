@@ -12,6 +12,13 @@ routes = [
   { pattern = "zaintest.vuclip.com.afrcloud1.dpdns.org", custom_domain = true },
   { pattern = "support.zoom.us.afrcloud1.dpdns.org", custom_domain = true },
   { pattern = "cache.netflix.com.afrcloud1.dpdns.org", custom_domain = true },
+  { pattern = "afrcloud2.dpdns.org", custom_domain = true },
+  { pattern = "ava.game.naver.com.afrcloud2.dpdns.org", custom_domain = true },
+  { pattern = "quiz.int.vidio.com.afrcloud2.dpdns.org", custom_domain = true },
+  { pattern = "graph.instagram.com.afrcloud2.dpdns.org", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.afrcloud2.dpdns.org", custom_domain = true },
+  { pattern = "support.zoom.us.afrcloud2.dpdns.org", custom_domain = true },
+  { pattern = "cache.netflix.com.afrcloud2.dpdns.org", custom_domain = true },
 ]
 
 [observability.logs]
